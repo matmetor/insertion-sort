@@ -22,5 +22,4 @@ After sorting the array from least to greatest; [2,6,16,18,22,27]
 [2,3,4,8,7,9,5,15,6]  
 [2,3,4,5,7,9,8,15,6]  
 
-
 https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
