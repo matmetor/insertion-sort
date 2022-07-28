@@ -12,7 +12,7 @@ n+(n-1)+(n-2)+1=n*(n+1)/2
 
 # Time Complexity
 
-After sorting the array from smallest to largest; [2,6,16,18,22,27]  
+After sorting the array from least to greatest; [2,6,16,18,22,27]  
 18 is in the middle of the array so time complexity considered as average case.
 
 # First 4 steps of [7,3,5,8,2,9,4,15,6] array
